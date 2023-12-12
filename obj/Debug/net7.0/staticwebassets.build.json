@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZxWK6xAhm32/23zYludIY1mLRjIHNbm1/3rmnC0N6cQ=",
+  "Source": "StoreApp.API",
+  "BasePath": "_content/StoreApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
